@@ -4,8 +4,8 @@
 
 <div align=center> 
   
-✨ Portfolio ✨
-### [포트폴리오](https://kim-yejinn.github.io/portfolio/)
+
+### [✨ Portfolio ✨](https://kim-yejinn.github.io/portfolio/)
 
 <br>
 
