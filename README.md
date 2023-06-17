@@ -4,7 +4,8 @@
 
 <div align=center> 
   
-
+✨ Portfolio ✨
+### [포트폴리오](https://kim-yejinn.github.io/portfolio/)
 
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-yejinn&show_icons=true&theme=radical)
 
