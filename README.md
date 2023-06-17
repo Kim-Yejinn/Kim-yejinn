@@ -7,6 +7,8 @@
 ✨ Portfolio ✨
 ### [포트폴리오](https://kim-yejinn.github.io/portfolio/)
 
+<br>
+
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-yejinn&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-yejinn&layout=compact)
