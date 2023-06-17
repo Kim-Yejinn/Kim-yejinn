@@ -1,6 +1,6 @@
 <!-- # KIM YE JIN  -->
 <!-- https://github.com/kyechan99/capsule-render#how-to-use -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KIM%20YE%20JIN&fontSize=90&fontAlign=70&animation=fadeIn   )
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KIM%20YE%20JIN&fontSize=40&fontAlign=70&animation=fadeIn   )
 
 <div align=center> 
   
