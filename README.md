@@ -5,7 +5,7 @@
 <div align=center> 
   
 
-### [✨ Portfolio ✨](https://kim-yejinn.github.io/portfolio/)
+### [✨ Portfolio ✨](https://kim-yejinn.github.io/about/)
 ### [Blog](https://kim-yejinn.github.io/)
 <br>
 
