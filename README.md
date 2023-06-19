@@ -5,8 +5,7 @@
 <div align=center> 
   
 
-### [✨ Portfolio ✨](https://kim-yejinn.github.io/about/)
-### [Blog](https://kim-yejinn.github.io/)
+###  [💬Portfolio](https://kim-yejinn.github.io/about/) [💬Blog](https://kim-yejinn.github.io/)
 <br>
 
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-yejinn&show_icons=true&theme=radical)
