@@ -5,7 +5,7 @@
 <div align=center> 
   
 
-### [⭐ Portfolio](https://western-amethyst-838.notion.site/6fd0f049f7664c95854b12cd39cb981a?pvs=4)
+### ⭐ Portfolio
 <br>
 
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-yejinn&show_icons=true&theme=radical)
@@ -61,6 +61,15 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=github&logoColor=white">
   
 </div>
+
+
+**My Activity**
+
+
+**Project**
+
+
+
 
 
 <!--
